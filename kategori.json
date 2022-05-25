@@ -1,0 +1,26 @@
+{
+  "response_code": "00",
+  "response_desc": "Products fetched successfully",
+  "data": [
+    {
+      "weaving_id": 1,
+      "weaving_name": "Lurik"
+    },
+    {
+      "weaving_id": 2,
+      "weaving_name": "Sumba"
+    },
+    {
+      "weaving_id": 3,
+      "weaving_name": "Ulos"
+    },
+    {
+      "weaving_id": 4,
+      "weaving_name": "Toraja"
+    },
+    {
+      "weaving_id": 5,
+      "weaving_name": "Gringsing"
+    }
+  ]
+}
