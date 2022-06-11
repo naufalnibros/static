@@ -1,0 +1,840 @@
+{
+  "response_code": "200",
+  "response_desc": "Products fetched successfully",
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "title": "Baju Model Dress Up Ulos Bintang Maratur",
+      "image": "https://storage.googleapis.com/hijup-production-sg-magazine/2020/03/2-5.png",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Bintang Maratur",
+        "_links": {
+          "detail": "/product/baju-model-dress-up-ulos-bintang-maratur-1",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/bintang-maratur",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "title": "Baju Model Dress Up Ulos Mangiring",
+      "image": "https://storage.googleapis.com/hijup-production-sg-magazine/2020/03/2-5.png",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Mangiring",
+        "_links": {
+          "detail": "/product/baju-model-dress-up-ulos-mangiring-2",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/mangiring",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "title": "Selendang Kain Ulos Bintang Maratur",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_01_selendang_kain_ulos%20bintang_maratur.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Bintang Maratur",
+        "_links": {
+          "detail": "/product/selendang-kain-ulos-bintang-maratur",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/bintang-maratur",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "title": "Baju Model Ulos Mangiring",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_02_baju_model_ulos_mangiring.jpeg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Mangiring",
+        "_links": {
+          "detail": "/product/baju-model-ulos-mangiring",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/mangiring",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "title": "Selendang Kain Ulos Antak-Antak",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_03_selendang_kain%20ulos_antak_antak.jpeg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Antakantak",
+        "_links": {
+          "detail": "/product/selendang-kain-ulos-antak-antak",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/antakantak",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "title": "Selendang Kain Ulos Bolean",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_04_selendang_kain_ulos_bolean.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Bolean",
+        "_links": {
+          "detail": "/product/selendang-kain-ulos-bolean",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/bolean",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "title": "Selendang Padang Ursa",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_05_selendang_padang_ursa.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Padang Ursa",
+        "_links": {
+          "detail": "/product/selendang-padang-ursa",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/padang-ursa",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "title": "Kain Pinan Lobu-Lobu",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_06_kain_pinan_lobu_lobu.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Pinan Lobu-lobu",
+        "_links": {
+          "detail": "/product/kain-pinan-lobu-lobu",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/pinan-lobu-lobu",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "title": "Selendang Kain Ulos Pinuncaan",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_07_selendang_kain_ulos_pinuncaan.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Pinuncaan",
+        "_links": {
+          "detail": "/product/selendang-kain-ulos-pinuncaan",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/pinuncaan",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "title": "Kemeja Motif Ulos Ragi Hotang",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_08_kemeja_motif_ulos_ragi_hotang.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Ragi Hotang",
+        "_links": {
+          "detail": "/product/kemeja-motif-ulos-ragi-hotang",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/ragi-hotang",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "title": "Selendang Ulos Ragi Hotang",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_08_selendang_ulos_ragi_hotang.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Ragi Hotang",
+        "_links": {
+          "detail": "/product/selendang-ulos-ragi-hotang",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/ragi-hotang",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "title": "Baju Ulos Ragi Huting",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_09_baju_ulos_ragi_huting.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Ragi Huting",
+        "_links": {
+          "detail": "/product/baju-ulos-ragi-huting",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/ragi-huting",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "title": "Selendang Kain Ulos Sibolang Rasta Pamotari Warna ",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_10_selendang_%20kain_ulos_sibolang_rasta_pamotari_warna_navy.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Sibolang Rasta Pamontari",
+        "_links": {
+          "detail": "/product/selendang-kain-ulos-sibolang-rasta-pamotari-warna-",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/sibolang-rasta-pamontari",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 27,
+      "title": "Selendang Ulos Si Bunga Umbasang Simpar",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_11_12_selendang_ulos_si_bunga_umbasang_simpar.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Si Bunga Umbasang",
+        "_links": {
+          "detail": "/product/selendang-ulos-si-bunga-umbasang-simpar",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/si-bunga-umbasang",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "title": "Ikat Kepala Ulos Sitolu Tuho",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_13_ikat_kepala_ulos_sitolu_tuho.png",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Sitolu Tuho",
+        "_links": {
+          "detail": "/product/ikat-kepala-ulos-sitolu-tuho",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/sitolu-tuho",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "title": "Kain Ulos Suri-Suri Ganjang",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_14_kain_ulos_suri_suri_ganjang.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Suri-suri Ganjang",
+        "_links": {
+          "detail": "/product/kain-ulos-suri-suri-ganjang",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/suri-suri-ganjang",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 30,
+      "title": "Simarinjam Sisi",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_15_simarinjam_sisi.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Simarinjam sisi",
+        "_links": {
+          "detail": "/product/simarinjam-sisi",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/simarinjam-sisi",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 31,
+      "title": "Kain Ulos Ragi Pakko",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_16_kain_ulos_ragi_pakko.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Ragi Pakko",
+        "_links": {
+          "detail": "/product/kain-ulos-ragi-pakko",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/ragi-pakko",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 32,
+      "title": "Kain Ulos Harangan",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_17_kain_ulos_harangan.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Ulos Harangan",
+        "_links": {
+          "detail": "/product/kain-ulos-harangan",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/ulos-harangan",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 33,
+      "title": "Sarung Ulos Tumtuman",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_18_sarung_ulos_tumtuman.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Tumtuman",
+        "_links": {
+          "detail": "/product/sarung-ulos-tumtuman",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/tumtuman",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 34,
+      "title": "Selendang Ulos Tutur-Tutur",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_19_selendang_ulos_tutur_tutur.jpg",
+      "weaving": {
+        "id": 1,
+        "weaving_name": "Ulos",
+        "weaving_etnik": "Batak",
+        "weaving_category": "Tutur-Tutur",
+        "_links": {
+          "detail": "/product/selendang-ulos-tutur-tutur",
+          "products_weaving": "/products/tenun-ulos",
+          "products_weaving_category": "/products/tenun-ulos/tutur-Tutur",
+          "wiki": "/wiki/tenun-ulos"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "title": "Kain Tenun Gringsing Lubeng",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_01_kain_tenun_gringsing_lubeng.jpg",
+      "weaving": {
+        "id": 2,
+        "weaving_name": "Gringsing",
+        "weaving_etnik": "Bali Aga",
+        "weaving_category": "Lubeng",
+        "_links": {
+          "detail": "/product/kain-tenun-gringsing-lubeng",
+          "products_weaving": "/products/tenun-gringsing",
+          "products_weaving_category": "/products/tenun-gringsing/lubeng",
+          "wiki": "/wiki/tenun-gringsing"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "title": "Selempang Kain Tenun Gringsing Cecempaka",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_02_selempang_kain_tenun_gringsing_cecempaka.jpg",
+      "weaving": {
+        "id": 2,
+        "weaving_name": "Gringsing",
+        "weaving_etnik": "Bali Aga",
+        "weaving_category": "Cecempaka",
+        "_links": {
+          "detail": "/product/selempang-kain-tenun-gringsing-cecempaka",
+          "products_weaving": "/products/tenun-gringsing",
+          "products_weaving_category": "/products/tenun-gringsing/cecempaka",
+          "wiki": "/wiki/tenun-gringsing"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "title": "Kain Tenun Gringsing Wayang Kebo",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_04_kain_tenun_gringsing_wayang_kebo.jpg",
+      "weaving": {
+        "id": 2,
+        "weaving_name": "Gringsing",
+        "weaving_etnik": "Bali Aga",
+        "weaving_category": "Wayang Kebo",
+        "_links": {
+          "detail": "/product/kain-tenun-gringsing-wayang-kebo",
+          "products_weaving": "/products/tenun-gringsing",
+          "products_weaving_category": "/products/tenun-gringsing/wayang-kebo",
+          "wiki": "/wiki/tenun-gringsing"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "title": "Selempang Kain Tenun Gringsing Cemplong",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_05_selempang_kain_tenun_gringsing_cemplong.jpg",
+      "weaving": {
+        "id": 2,
+        "weaving_name": "Gringsing",
+        "weaving_etnik": "Bali Aga",
+        "weaving_category": "Cemplong",
+        "_links": {
+          "detail": "/product/selempang-kain-tenun-gringsing-cemplong",
+          "products_weaving": "/products/tenun-gringsing",
+          "products_weaving_category": "/products/tenun-gringsing/cemplong",
+          "wiki": "/wiki/tenun-gringsing"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "title": "Selendang Kain Tenun Gringsing Patlikur Isi",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_06_selendang_kain_tenun_gringsing_patlikur_lisi.jpg",
+      "weaving": {
+        "id": 2,
+        "weaving_name": "Gringsing",
+        "weaving_etnik": "Bali Aga",
+        "weaving_category": "Patlikur isi",
+        "_links": {
+          "detail": "/product/selendang-kain-tenun-gringsing-patlikur-isi",
+          "products_weaving": "/products/tenun-gringsing",
+          "products_weaving_category": "/products/tenun-gringsing/patlikur-isi",
+          "wiki": "/wiki/tenun-gringsing"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "title": "Kain Tenun Gringsing Batung Tuung",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_08_kain_tenun_gringsing_batung_tuung.jpg",
+      "weaving": {
+        "id": 2,
+        "weaving_name": "Gringsing",
+        "weaving_etnik": "Bali Aga",
+        "weaving_category": "Batung Tuung",
+        "_links": {
+          "detail": "/product/kain-tenun-gringsing-batung-tuung",
+          "products_weaving": "/products/tenun-gringsing",
+          "products_weaving_category": "/products/tenun-gringsing/batung-tuung",
+          "wiki": "/wiki/tenun-gringsing"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "title": "Kain Tenun Gringsing Enjekan Siap",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_09_kain_tenun_gringsing_enjekan_siap.jpg",
+      "weaving": {
+        "id": 2,
+        "weaving_name": "Gringsing",
+        "weaving_etnik": "Bali Aga",
+        "weaving_category": "Enjekan Siap",
+        "_links": {
+          "detail": "/product/kain-tenun-gringsing-enjekan-siap",
+          "products_weaving": "/products/tenun-gringsing",
+          "products_weaving_category": "/products/tenun-gringsing/enjekan-siap",
+          "wiki": "/wiki/tenun-gringsing"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "title": "Kain Tenun Gringsing Dingding Sigading",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_10_kain_tenun_gringsing_dingding_sigading.jpg",
+      "weaving": {
+        "id": 2,
+        "weaving_name": "Gringsing",
+        "weaving_etnik": "Bali Aga",
+        "weaving_category": "Dingding Sigading",
+        "_links": {
+          "detail": "/product/kain-tenun-gringsing-dingding-sigading",
+          "products_weaving": "/products/tenun-gringsing",
+          "products_weaving_category": "/products/tenun-gringsing/dingding-sigading",
+          "wiki": "/wiki/tenun-gringsing"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "title": "Kain Tenun Dingding Ai",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_11_kain_tenun_dingding_ai.jpg",
+      "weaving": {
+        "id": 2,
+        "weaving_name": "Gringsing",
+        "weaving_etnik": "Bali Aga",
+        "weaving_category": "Pa' Sekong Kandaure",
+        "_links": {
+          "detail": "/product/kain-tenun-dingding-ai",
+          "products_weaving": "/products/tenun-gringsing",
+          "products_weaving_category": "/products/tenun-gringsing/pasekong-kandaure",
+          "wiki": "/wiki/tenun-gringsing"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "title": "Selendang Kain Tenun Gringsing Teteledan",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_13_selendang_kain_tenun_gringsing_teteledan.jpg",
+      "weaving": {
+        "id": 2,
+        "weaving_name": "Gringsing",
+        "weaving_etnik": "Bali Aga",
+        "weaving_category": "Pa' Tedong",
+        "_links": {
+          "detail": "/product/kain-tenun-dingding-teteledan",
+          "products_weaving": "/products/tenun-gringsing",
+          "products_weaving_category": "/products/tenun-gringsing/pa-tedong",
+          "wiki": "/wiki/tenun-gringsing"
+        }
+      }
+    },
+    {
+      "id": 35,
+      "title": "Kain Tenun Toraja Motif Pa' Sekong Kandaure",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_01_kain_tenun_toraja_motif_pa_sekong_kandure.png",
+      "weaving": {
+        "id": 3,
+        "weaving_name": "Toraja",
+        "weaving_etnik": "Toraja",
+        "weaving_category": "Pa' Sekong Kandaure",
+        "_links": {
+          "detail": "/product/kain-tenun-toraja-motif-pa-sekong-kandure-35",
+          "products_weaving": "/products/tenun-toraja",
+          "products_weaving_category": "/products/tenun-toraja/pasekong-kandaure",
+          "wiki": "/wiki/tenun-toraja"
+        }
+      }
+    },
+    {
+      "id": 36,
+      "title": "Kain Tenun Toraja Motif Tau-tau",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_02_kain_tenun_toraja_motif_tau_tau.png",
+      "weaving": {
+        "id": 3,
+        "weaving_name": "Toraja",
+        "weaving_etnik": "Toraja",
+        "weaving_category": "Tau-Tau",
+        "_links": {
+          "detail": "/product/kain-tenun-toraja-motif-tau-tau-36",
+          "products_weaving": "/products/tenun-toraja",
+          "products_weaving_category": "/products/tenun-toraja/tau-tau",
+          "wiki": "/wiki/tenun-toraja"
+        }
+      }
+    },
+    {
+      "id": 37,
+      "title": "Bantal Sofa Tenun Motif Pa'tedong",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_03_bantal_sofa_motif_tenun_pa_tedong.jpg",
+      "weaving": {
+        "id": 3,
+        "weaving_name": "Toraja",
+        "weaving_etnik": "Toraja",
+        "weaving_category": "Pa' Tedong",
+        "_links": {
+          "detail": "/product/bantal-sofa-motif-tenun-patedong-37",
+          "products_weaving": "/products/tenun-toraja",
+          "products_weaving_category": "/products/tenun-toraja/pa-tedong",
+          "wiki": "/wiki/tenun-toraja"
+        }
+      }
+    },
+    {
+      "id": 38,
+      "title": "Kain Tenun Pa'tangke Lumu'",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_04_kain_batik_pa'_tangke_lumu.jpg",
+      "weaving": {
+        "id": 3,
+        "weaving_name": "Toraja",
+        "weaving_etnik": "Toraja",
+        "weaving_category": "Pa'tangke Lumu'",
+        "_links": {
+          "detail": "/product/kain-tenun-patangke-lumu-38",
+          "products_weaving": "/products/tenun-toraja",
+          "products_weaving_category": "/products/tenun-toraja/patangke-lumu",
+          "wiki": "/wiki/tenun-toraja"
+        }
+      }
+    },
+    {
+      "id": 39,
+      "title": "Kain Tenun Toraja Motif Pa'bulu Londong",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_05_tenun_toraja_motif_pa'_bulu_londong.png",
+      "weaving": {
+        "id": 3,
+        "weaving_name": "Toraja",
+        "weaving_etnik": "Toraja",
+        "weaving_category": "Pa'bulu Londong",
+        "_links": {
+          "detail": "/product/kain-tenun-toraja-motif-pabulu-londong-39",
+          "products_weaving": "/products/tenun-toraja",
+          "products_weaving_category": "/products/tenun-toraja/pabulu-londong",
+          "wiki": "/wiki/tenun-toraja"
+        }
+      }
+    },
+    {
+      "id": 40,
+      "title": "Kain Tenun Toraja Motif Pa'barre Allo",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_06_tenun_toraja_motif_pa'_barre_allo.jpg",
+      "weaving": {
+        "id": 3,
+        "weaving_name": "Toraja",
+        "weaving_etnik": "Toraja",
+        "weaving_category": "Pa'barre Allo",
+        "_links": {
+          "detail": "/product/kain-tenun-toraja-motif-pabarre-allo-40",
+          "products_weaving": "/products/tenun-toraja",
+          "products_weaving_category": "/products/tenun-toraja/pa'barre-allo",
+          "wiki": "/wiki/tenun-toraja"
+        }
+      }
+    },
+    {
+      "id": 41,
+      "title": "Kain Tenun Lurik Motif Kluwung Warna Pelangi",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_01_kain_tenun_lurik_motif-kluwung.jpg",
+      "weaving": {
+        "id": 4,
+        "weaving_name": "Lurik",
+        "weaving_etnik": "Jawa",
+        "weaving_category": "Kluwung",
+        "_links": {
+          "detail": "/product/kain-tenun-lurik-motif-kluwung-warna-pelangi-41",
+          "products_weaving": "/products/tenun-lurik",
+          "products_weaving_category": "/products/tenun-lurik/kluwung",
+          "wiki": "/wiki/tenun-lurik"
+        }
+      }
+    },
+    {
+      "id": 42,
+      "title": "Kain Tenun Lurik Motif Tuluh Watu Warna Merah Bata",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_02_kain_tenun_lurik_motif-tuluh_watu_merah_bata.jpg",
+      "weaving": {
+        "id": 4,
+        "weaving_name": "Lurik",
+        "weaving_etnik": "Jawa",
+        "weaving_category": "Tuluh Watu",
+        "_links": {
+          "detail": "/product/kain-tenun-lurik-motif-tuluh-watu-warna-merah-bata-42",
+          "products_weaving": "/products/tenun-lurik",
+          "products_weaving_category": "/products/tenun-lurik/tuluh-watu",
+          "wiki": "/wiki/tenun-lurik"
+        }
+      }
+    },
+    {
+      "id": 43,
+      "title": "Kain Tenun Lurik Motif Tumber Pecah",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_03_kain_tenun_lurik_motif_tumber_pecah.jpg",
+      "weaving": {
+        "id": 4,
+        "weaving_name": "Lurik",
+        "weaving_etnik": "Jawa",
+        "weaving_category": "Tumbar Pecah",
+        "_links": {
+          "detail": "/product/kain-tenun-lurik-motif-tumber-pecah-43",
+          "products_weaving": "/products/tenun-lurik",
+          "products_weaving_category": "/products/tenun-lurik/tumbar-pecah",
+          "wiki": "/wiki/tenun-lurik"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "title": "Kain Tenun Lurik Motif Sapit Urang Warna Merah Ung",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_04_kain_tenun_lurik_motif_sapit_urang_warna_merah_ungu.jpg",
+      "weaving": {
+        "id": 4,
+        "weaving_name": "Lurik",
+        "weaving_etnik": "Jawa",
+        "weaving_category": "Sapit Urang",
+        "_links": {
+          "detail": "/product/kain-tenun-lurik-motif-sapit-urang-warna-merah-ung-44",
+          "products_weaving": "/products/tenun-lurik",
+          "products_weaving_category": "/products/tenun-lurik/sapit-urang",
+          "wiki": "/wiki/tenun-lurik"
+        }
+      }
+    },
+    {
+      "id": 45,
+      "title": "Kain Tenun Lurik Motif Udan Liris Hujan Rintik-rin",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_06_kain_tenun_lurik_motif_udan_liris.jpg",
+      "weaving": {
+        "id": 4,
+        "weaving_name": "Lurik",
+        "weaving_etnik": "Jawa",
+        "weaving_category": "Udan Liris",
+        "_links": {
+          "detail": "/product/kain-tenun-lurik-motif-udan-liris-hujan-rintik-rin-45",
+          "products_weaving": "/products/tenun-lurik",
+          "products_weaving_category": "/products/tenun-lurik/udan-liris",
+          "wiki": "/wiki/tenun-lurik"
+        }
+      }
+    },
+    {
+      "id": 46,
+      "title": "Kain Tenun Lurik Motif Lanjuran Warna Hitam Hijau",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_07_kain_tenun_lurik_lanjuran_hitam_hijau.jpg",
+      "weaving": {
+        "id": 4,
+        "weaving_name": "Lurik",
+        "weaving_etnik": "Jawa",
+        "weaving_category": "Lajuran",
+        "_links": {
+          "detail": "/product/kain-tenun-lurik-motif-lanjuran-warna-hitam-hijau-46",
+          "products_weaving": "/products/tenun-lurik",
+          "products_weaving_category": "/products/tenun-lurik/lanjuran",
+          "wiki": "/wiki/tenun-lurik"
+        }
+      }
+    },
+    {
+      "id": 53,
+      "title": "Kain Tenun Sumba Motif Ayam",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_01_kain_tenun_sumba_motif_ayam.png",
+      "weaving": {
+        "id": 5,
+        "weaving_name": "Sumba",
+        "weaving_etnik": "Sumba",
+        "weaving_category": "Kain Sumba Motif Ayam",
+        "_links": {
+          "detail": "/product/kain-tenun-sumba-motif-ayam-53",
+          "products_weaving": "/products/tenun-ikat-sumba",
+          "products_weaving_category": "/products/tenun-ikat-sumba/kain-sumba-motif-ayam",
+          "wiki": "/wiki/tenun-ikat-sumba"
+        }
+      }
+    },
+    {
+      "id": 54,
+      "title": "Kain Tenun Ikat Sumba Motif Kuda",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_02_kain_tenun_ikat_sumba_motif_kuda.jpg",
+      "weaving": {
+        "id": 5,
+        "weaving_name": "Sumba",
+        "weaving_etnik": "Sumba",
+        "weaving_category": "Kain Sumba Motif Kuda",
+        "_links": {
+          "detail": "/product/kain-tenun-ikat-sumba-motif-kuda-54",
+          "products_weaving": "/products/tenun-ikat-sumba",
+          "products_weaving_category": "/products/tenun-ikat-sumba/kain-sumba-motif-kuda",
+          "wiki": "/wiki/tenun-ikat-sumba"
+        }
+      }
+    },
+    {
+      "id": 55,
+      "title": "Kain Tenun Sumba Blanket Biru Motif Rusa",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_03_kain_tenun_sumba_blanket_biru_motif_rusa_.jpg",
+      "weaving": {
+        "id": 5,
+        "weaving_name": "Sumba",
+        "weaving_etnik": "Sumba",
+        "weaving_category": "Kain Sumba Motif Rusa",
+        "_links": {
+          "detail": "/product/kain-tenun-sumba-blanket-biru-motif-rusa-55",
+          "products_weaving": "/products/tenun-ikat-sumba",
+          "products_weaving_category": "/products/tenun-ikat-sumba/kain-sumba-motif-rusa",
+          "wiki": "/wiki/tenun-ikat-sumba"
+        }
+      }
+    },
+    {
+      "id": 56,
+      "title": "Kain Tenun Sumba Timur Motif Manusia Blanket Cokla",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_04_kain_tenun_sumba_timur_motif_manusia-blanket_coklat.jpg",
+      "weaving": {
+        "id": 5,
+        "weaving_name": "Sumba",
+        "weaving_etnik": "Sumba",
+        "weaving_category": "Kain Sumba Motif Manusia",
+        "_links": {
+          "detail": "/product/kain-tenun-sumba-timur-motif-manusia-blanket-cokla-56",
+          "products_weaving": "/products/tenun-ikat-sumba",
+          "products_weaving_category": "/products/tenun-ikat-sumba/kain-Sumba Motif  Manusia",
+          "wiki": "/wiki/tenun-ikat-sumba"
+        }
+      }
+    },
+    {
+      "id": 57,
+      "title": "Kain Sarung Tenun Sumba Motif Mamuli",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_05_kain_sarung_tenun_sumba_motif_mamuli.jpg",
+      "weaving": {
+        "id": 5,
+        "weaving_name": "Sumba",
+        "weaving_etnik": "Sumba",
+        "weaving_category": "Kain Sumba Motif Mamuli",
+        "_links": {
+          "detail": "/product/kain-sarung-tenun-sumba-motif-mamuli-57",
+          "products_weaving": "/products/tenun-ikat-sumba",
+          "products_weaving_category": "/products/tenun-ikat-sumba/kain-sumba-motif-mamuli",
+          "wiki": "/wiki/tenun-ikat-sumba"
+        }
+      }
+    },
+    {
+      "id": 58,
+      "title": "Kain Sumba Motif Garis Warna Hitam Kuning",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_06_kain_sumba_motif%20_garis.png",
+      "weaving": {
+        "id": 5,
+        "weaving_name": "Sumba",
+        "weaving_etnik": "Sumba",
+        "weaving_category": "Kain Sumba Motif Garis",
+        "_links": {
+          "detail": "/product/kain-sumba-motif-garis-warna-hitam-kuning-58",
+          "products_weaving": "/products/tenun-ikat-sumba",
+          "products_weaving_category": "/products/tenun-ikat-sumba/kain-sumba-motif-garis",
+          "wiki": "/wiki/tenun-ikat-sumba"
+        }
+      }
+    }
+  ]
+}
