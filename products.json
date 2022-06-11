@@ -40,7 +40,7 @@
     {
       "id": 16,
       "title": "Selendang Kain Ulos Bintang Maratur",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_01_selendang_kain_ulos%20bintang_maratur.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_01_selendang_kain_ulos%20bintang_maratur.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -57,7 +57,7 @@
     {
       "id": 17,
       "title": "Baju Model Ulos Mangiring",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_02_baju_model_ulos_mangiring.jpeg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_02_baju_model_ulos_mangiring.jpeg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -74,7 +74,7 @@
     {
       "id": 18,
       "title": "Selendang Kain Ulos Antak-Antak",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_03_selendang_kain%20ulos_antak_antak.jpeg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_03_selendang_kain%20ulos_antak_antak.jpeg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -91,7 +91,7 @@
     {
       "id": 19,
       "title": "Selendang Kain Ulos Bolean",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_04_selendang_kain_ulos_bolean.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_04_selendang_kain_ulos_bolean.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -108,7 +108,7 @@
     {
       "id": 20,
       "title": "Selendang Padang Ursa",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_05_selendang_padang_ursa.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_05_selendang_padang_ursa.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -125,7 +125,7 @@
     {
       "id": 21,
       "title": "Kain Pinan Lobu-Lobu",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_06_kain_pinan_lobu_lobu.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_06_kain_pinan_lobu_lobu.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -142,7 +142,7 @@
     {
       "id": 22,
       "title": "Selendang Kain Ulos Pinuncaan",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_07_selendang_kain_ulos_pinuncaan.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_07_selendang_kain_ulos_pinuncaan.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -159,7 +159,7 @@
     {
       "id": 23,
       "title": "Kemeja Motif Ulos Ragi Hotang",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_08_kemeja_motif_ulos_ragi_hotang.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_08_kemeja_motif_ulos_ragi_hotang.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -176,7 +176,7 @@
     {
       "id": 24,
       "title": "Selendang Ulos Ragi Hotang",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_08_selendang_ulos_ragi_hotang.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_08_selendang_ulos_ragi_hotang.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -193,7 +193,7 @@
     {
       "id": 25,
       "title": "Baju Ulos Ragi Huting",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_09_baju_ulos_ragi_huting.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_09_baju_ulos_ragi_huting.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -210,7 +210,7 @@
     {
       "id": 26,
       "title": "Selendang Kain Ulos Sibolang Rasta Pamotari Warna ",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_10_selendang_%20kain_ulos_sibolang_rasta_pamotari_warna_navy.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_10_selendang_%20kain_ulos_sibolang_rasta_pamotari_warna_navy.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -227,7 +227,7 @@
     {
       "id": 27,
       "title": "Selendang Ulos Si Bunga Umbasang Simpar",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_11_12_selendang_ulos_si_bunga_umbasang_simpar.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_11_12_selendang_ulos_si_bunga_umbasang_simpar.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -244,7 +244,7 @@
     {
       "id": 28,
       "title": "Ikat Kepala Ulos Sitolu Tuho",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_13_ikat_kepala_ulos_sitolu_tuho.png",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_13_ikat_kepala_ulos_sitolu_tuho.png",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -261,7 +261,7 @@
     {
       "id": 29,
       "title": "Kain Ulos Suri-Suri Ganjang",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_14_kain_ulos_suri_suri_ganjang.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_14_kain_ulos_suri_suri_ganjang.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -278,7 +278,7 @@
     {
       "id": 30,
       "title": "Simarinjam Sisi",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_15_simarinjam_sisi.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_15_simarinjam_sisi.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -295,7 +295,7 @@
     {
       "id": 31,
       "title": "Kain Ulos Ragi Pakko",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_16_kain_ulos_ragi_pakko.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_16_kain_ulos_ragi_pakko.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -312,7 +312,7 @@
     {
       "id": 32,
       "title": "Kain Ulos Harangan",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_17_kain_ulos_harangan.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_17_kain_ulos_harangan.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -329,7 +329,7 @@
     {
       "id": 33,
       "title": "Sarung Ulos Tumtuman",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_18_sarung_ulos_tumtuman.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_18_sarung_ulos_tumtuman.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -346,7 +346,7 @@
     {
       "id": 34,
       "title": "Selendang Ulos Tutur-Tutur",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/ulos_19_selendang_ulos_tutur_tutur.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/ulos_19_selendang_ulos_tutur_tutur.jpg",
       "weaving": {
         "id": 1,
         "weaving_name": "Ulos",
@@ -363,7 +363,7 @@
     {
       "id": 3,
       "title": "Kain Tenun Gringsing Lubeng",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_01_kain_tenun_gringsing_lubeng.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/gringsing_01_kain_tenun_gringsing_lubeng.jpg",
       "weaving": {
         "id": 2,
         "weaving_name": "Gringsing",
@@ -380,7 +380,7 @@
     {
       "id": 4,
       "title": "Selempang Kain Tenun Gringsing Cecempaka",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_02_selempang_kain_tenun_gringsing_cecempaka.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/gringsing_02_selempang_kain_tenun_gringsing_cecempaka.jpg",
       "weaving": {
         "id": 2,
         "weaving_name": "Gringsing",
@@ -397,7 +397,7 @@
     {
       "id": 6,
       "title": "Kain Tenun Gringsing Wayang Kebo",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_04_kain_tenun_gringsing_wayang_kebo.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/gringsing_04_kain_tenun_gringsing_wayang_kebo.jpg",
       "weaving": {
         "id": 2,
         "weaving_name": "Gringsing",
@@ -414,7 +414,7 @@
     {
       "id": 7,
       "title": "Selempang Kain Tenun Gringsing Cemplong",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_05_selempang_kain_tenun_gringsing_cemplong.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/gringsing_05_selempang_kain_tenun_gringsing_cemplong.jpg",
       "weaving": {
         "id": 2,
         "weaving_name": "Gringsing",
@@ -431,7 +431,7 @@
     {
       "id": 8,
       "title": "Selendang Kain Tenun Gringsing Patlikur Isi",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_06_selendang_kain_tenun_gringsing_patlikur_lisi.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/gringsing_06_selendang_kain_tenun_gringsing_patlikur_lisi.jpg",
       "weaving": {
         "id": 2,
         "weaving_name": "Gringsing",
@@ -448,7 +448,7 @@
     {
       "id": 10,
       "title": "Kain Tenun Gringsing Batung Tuung",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_08_kain_tenun_gringsing_batung_tuung.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/gringsing_08_kain_tenun_gringsing_batung_tuung.jpg",
       "weaving": {
         "id": 2,
         "weaving_name": "Gringsing",
@@ -465,7 +465,7 @@
     {
       "id": 11,
       "title": "Kain Tenun Gringsing Enjekan Siap",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_09_kain_tenun_gringsing_enjekan_siap.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/gringsing_09_kain_tenun_gringsing_enjekan_siap.jpg",
       "weaving": {
         "id": 2,
         "weaving_name": "Gringsing",
@@ -482,7 +482,7 @@
     {
       "id": 12,
       "title": "Kain Tenun Gringsing Dingding Sigading",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_10_kain_tenun_gringsing_dingding_sigading.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/gringsing_10_kain_tenun_gringsing_dingding_sigading.jpg",
       "weaving": {
         "id": 2,
         "weaving_name": "Gringsing",
@@ -499,7 +499,7 @@
     {
       "id": 13,
       "title": "Kain Tenun Dingding Ai",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_11_kain_tenun_dingding_ai.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/gringsing_11_kain_tenun_dingding_ai.jpg",
       "weaving": {
         "id": 2,
         "weaving_name": "Gringsing",
@@ -516,7 +516,7 @@
     {
       "id": 15,
       "title": "Selendang Kain Tenun Gringsing Teteledan",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/gringsing_13_selendang_kain_tenun_gringsing_teteledan.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/gringsing_13_selendang_kain_tenun_gringsing_teteledan.jpg",
       "weaving": {
         "id": 2,
         "weaving_name": "Gringsing",
@@ -533,7 +533,7 @@
     {
       "id": 35,
       "title": "Kain Tenun Toraja Motif Pa' Sekong Kandaure",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_01_kain_tenun_toraja_motif_pa_sekong_kandure.png",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/toraja_01_kain_tenun_toraja_motif_pa_sekong_kandure.png",
       "weaving": {
         "id": 3,
         "weaving_name": "Toraja",
@@ -550,7 +550,7 @@
     {
       "id": 36,
       "title": "Kain Tenun Toraja Motif Tau-tau",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_02_kain_tenun_toraja_motif_tau_tau.png",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/toraja_02_kain_tenun_toraja_motif_tau_tau.png",
       "weaving": {
         "id": 3,
         "weaving_name": "Toraja",
@@ -567,7 +567,7 @@
     {
       "id": 37,
       "title": "Bantal Sofa Tenun Motif Pa'tedong",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_03_bantal_sofa_motif_tenun_pa_tedong.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/toraja_03_bantal_sofa_motif_tenun_pa_tedong.jpg",
       "weaving": {
         "id": 3,
         "weaving_name": "Toraja",
@@ -584,7 +584,7 @@
     {
       "id": 38,
       "title": "Kain Tenun Pa'tangke Lumu'",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_04_kain_batik_pa'_tangke_lumu.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/toraja_04_kain_batik_pa'_tangke_lumu.jpg",
       "weaving": {
         "id": 3,
         "weaving_name": "Toraja",
@@ -601,7 +601,7 @@
     {
       "id": 39,
       "title": "Kain Tenun Toraja Motif Pa'bulu Londong",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_05_tenun_toraja_motif_pa'_bulu_londong.png",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/toraja_05_tenun_toraja_motif_pa'_bulu_londong.png",
       "weaving": {
         "id": 3,
         "weaving_name": "Toraja",
@@ -618,7 +618,7 @@
     {
       "id": 40,
       "title": "Kain Tenun Toraja Motif Pa'barre Allo",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/toraja_06_tenun_toraja_motif_pa'_barre_allo.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/toraja_06_tenun_toraja_motif_pa'_barre_allo.jpg",
       "weaving": {
         "id": 3,
         "weaving_name": "Toraja",
@@ -635,7 +635,7 @@
     {
       "id": 41,
       "title": "Kain Tenun Lurik Motif Kluwung Warna Pelangi",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_01_kain_tenun_lurik_motif-kluwung.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/lurik_01_kain_tenun_lurik_motif-kluwung.jpg",
       "weaving": {
         "id": 4,
         "weaving_name": "Lurik",
@@ -652,7 +652,7 @@
     {
       "id": 42,
       "title": "Kain Tenun Lurik Motif Tuluh Watu Warna Merah Bata",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_02_kain_tenun_lurik_motif-tuluh_watu_merah_bata.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/lurik_02_kain_tenun_lurik_motif-tuluh_watu_merah_bata.jpg",
       "weaving": {
         "id": 4,
         "weaving_name": "Lurik",
@@ -669,7 +669,7 @@
     {
       "id": 43,
       "title": "Kain Tenun Lurik Motif Tumber Pecah",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_03_kain_tenun_lurik_motif_tumber_pecah.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/lurik_03_kain_tenun_lurik_motif_tumber_pecah.jpg",
       "weaving": {
         "id": 4,
         "weaving_name": "Lurik",
@@ -686,7 +686,7 @@
     {
       "id": 44,
       "title": "Kain Tenun Lurik Motif Sapit Urang Warna Merah Ung",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_04_kain_tenun_lurik_motif_sapit_urang_warna_merah_ungu.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/lurik_04_kain_tenun_lurik_motif_sapit_urang_warna_merah_ungu.jpg",
       "weaving": {
         "id": 4,
         "weaving_name": "Lurik",
@@ -703,7 +703,7 @@
     {
       "id": 45,
       "title": "Kain Tenun Lurik Motif Udan Liris Hujan Rintik-rin",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_06_kain_tenun_lurik_motif_udan_liris.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/lurik_06_kain_tenun_lurik_motif_udan_liris.jpg",
       "weaving": {
         "id": 4,
         "weaving_name": "Lurik",
@@ -720,7 +720,7 @@
     {
       "id": 46,
       "title": "Kain Tenun Lurik Motif Lanjuran Warna Hitam Hijau",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/lurik_07_kain_tenun_lurik_lanjuran_hitam_hijau.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/lurik_07_kain_tenun_lurik_lanjuran_hitam_hijau.jpg",
       "weaving": {
         "id": 4,
         "weaving_name": "Lurik",
@@ -737,7 +737,7 @@
     {
       "id": 53,
       "title": "Kain Tenun Sumba Motif Ayam",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_01_kain_tenun_sumba_motif_ayam.png",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/sumba_01_kain_tenun_sumba_motif_ayam.png",
       "weaving": {
         "id": 5,
         "weaving_name": "Sumba",
@@ -754,7 +754,7 @@
     {
       "id": 54,
       "title": "Kain Tenun Ikat Sumba Motif Kuda",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_02_kain_tenun_ikat_sumba_motif_kuda.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/sumba_02_kain_tenun_ikat_sumba_motif_kuda.jpg",
       "weaving": {
         "id": 5,
         "weaving_name": "Sumba",
@@ -771,7 +771,7 @@
     {
       "id": 55,
       "title": "Kain Tenun Sumba Blanket Biru Motif Rusa",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_03_kain_tenun_sumba_blanket_biru_motif_rusa_.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/sumba_03_kain_tenun_sumba_blanket_biru_motif_rusa_.jpg",
       "weaving": {
         "id": 5,
         "weaving_name": "Sumba",
@@ -788,7 +788,7 @@
     {
       "id": 56,
       "title": "Kain Tenun Sumba Timur Motif Manusia Blanket Cokla",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_04_kain_tenun_sumba_timur_motif_manusia-blanket_coklat.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/sumba_04_kain_tenun_sumba_timur_motif_manusia-blanket_coklat.jpg",
       "weaving": {
         "id": 5,
         "weaving_name": "Sumba",
@@ -805,7 +805,7 @@
     {
       "id": 57,
       "title": "Kain Sarung Tenun Sumba Motif Mamuli",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_05_kain_sarung_tenun_sumba_motif_mamuli.jpg",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/sumba_05_kain_sarung_tenun_sumba_motif_mamuli.jpg",
       "weaving": {
         "id": 5,
         "weaving_name": "Sumba",
@@ -822,7 +822,7 @@
     {
       "id": 58,
       "title": "Kain Sumba Motif Garis Warna Hitam Kuning",
-      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/blob/main/weaving_data/sumba_06_kain_sumba_motif%20_garis.png",
+      "image": "https://gitlab.com/b6072/backend-tenunsantara/-/raw/main/weaving_data/sumba_06_kain_sumba_motif%20_garis.png",
       "weaving": {
         "id": 5,
         "weaving_name": "Sumba",
